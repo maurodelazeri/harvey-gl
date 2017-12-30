@@ -9,10 +9,10 @@ import (
 	"github.com/go-gl/gl/v3.3-core/gl"
 	"github.com/go-gl/glfw/v3.2/glfw"
 
-	"github.com/lian/gonky/shader"
-	"github.com/lian/gonky/widgets"
-	"github.com/lian/gonky/widgets/status"
-	"github.com/lian/gonky/widgets/thermal"
+	"github.com/maurodelazeri/harvey-gl/shader"
+	"github.com/maurodelazeri/harvey-gl/widgets"
+	"github.com/maurodelazeri/harvey-gl/widgets/status"
+	"github.com/maurodelazeri/harvey-gl/widgets/thermal"
 )
 
 func init() {

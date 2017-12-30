@@ -5,7 +5,7 @@ import (
 
 	"github.com/go-gl/gl/v3.3-core/gl"
 	"github.com/go-gl/mathgl/mgl32"
-	"github.com/lian/gonky/shader"
+	"github.com/maurodelazeri/harvey-gl/shader"
 )
 
 type Texture struct {

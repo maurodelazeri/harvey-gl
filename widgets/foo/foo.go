@@ -4,9 +4,9 @@ import (
 	"image"
 	"image/color"
 
-	"github.com/lian/gonky/font/mono6x13"
-	"github.com/lian/gonky/font/terminus"
-	"github.com/lian/gonky/texture"
+	"github.com/maurodelazeri/harvey-gl/font/mono6x13"
+	"github.com/maurodelazeri/harvey-gl/font/terminus"
+	"github.com/maurodelazeri/harvey-gl/texture"
 	"github.com/llgcode/draw2d/draw2dimg"
 	"github.com/llgcode/draw2d/draw2dkit"
 )
